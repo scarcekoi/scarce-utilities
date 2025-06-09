@@ -1,0 +1,5 @@
+services:
+  web:
+    image: scarcekoi/scarce_utilities:latest
+    environment:
+      CLIENT_TOKEN: TOKEN_HERE
